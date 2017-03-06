@@ -1,0 +1,6 @@
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\bin\Debug\Repositories.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\obj\Debug\Repositories.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\ProcessOrderDemo\Repositories\obj\Debug\Repositories.pdb
